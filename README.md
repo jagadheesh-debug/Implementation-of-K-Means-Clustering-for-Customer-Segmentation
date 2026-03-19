@@ -18,8 +18,8 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: Gowthaman Ak
-RegisterNumber: 212225240043 
+Developed by: jagadheesh kumar T
+RegisterNumber: 212225040139
 */
 # Import necessary libraries
 import pandas as pd
